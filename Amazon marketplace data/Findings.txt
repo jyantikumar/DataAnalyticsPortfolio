@@ -1,0 +1,10 @@
+Findings:
+All of the customers are repeat customers. They've ordered more the once. This shows that the customer loyalty is healthy and that the customers trust the marketplace. This is really good. However, the data also show that 2026 is the year we gained the least new customers. We need to invest more on acquisition while making sure that our take good care of the trust of our existing customers. We can start by looking at the ratings of products and sellers, and reviews too, and of course, we should take a look at the shipping too in case we get something from it. 
+
+For the sellers, There are more sellers that are rated 1-2 in comparison to 4-5. Which is a bit concerning. I think we need to get more data to figure out why there were rated so low because it isn't available. 
+
+A lot of the products were given a low review. The highest one literally says "Terrible". Next to it says "Amazing!" and "Good Value!". Looking at the reviews with the most count, 6/10 of it is positive while 4/10 is negative. It's good but it also means that there's a lot to improve. 
+
+Another factor that I think may affect the marketplace is the shipping. 79.45% of the orders delivered were late. The order that took the most delayed day is 22 days. Data shows that the carriers share a fair share in delivering orders late. And they also share a fair share in teems of total delayed days. With FedEx having the the most delayed deliveries while USPS has the most delayed days.
+
+I think that we should consider spending time to invest time to investigate why the sellers with low ratings were given such and financially in terms of deliveries because it is concerning how 3/4 of the delivered orders were delivered late.
